@@ -18,8 +18,8 @@ This is the first chalenge to do in frontend mentor website
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/NajmAlzorqah/The-QR-Challenge)
+- Live Site URL: [Add live site URL here](https://najmalzorqah.github.io/The-QR-Challenge/)
 
 ## My process
 
